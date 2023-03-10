@@ -23,7 +23,9 @@
  	<a href="https://www.twitch.tv/FXg4mer" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href = "mailto:henriqueferraz6710@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
 </div>
+ 
 ##
+ 
 
   ![patinho](https://user-images.githubusercontent.com/127332956/223829468-6178fb0c-3c99-49d4-9fa6-41d0531855ff.gif)
 
