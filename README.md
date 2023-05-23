@@ -26,6 +26,11 @@
   <a href = "mailto:henriqueferraz6710@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
 </div>
  
+ <div>
+  <br><p align="centre"><b>Visitors Count</b></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{OtavioHFerraz}/count.svg" /></p>
+ </div>
+ 
  
 
   ![patinho](https://user-images.githubusercontent.com/127332956/223829468-6178fb0c-3c99-49d4-9fa6-41d0531855ff.gif)
