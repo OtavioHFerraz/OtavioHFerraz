@@ -2,10 +2,8 @@
 
 ## Olá, Mundo 
 
-- 🔭 I'm currently unemployed 
-- 🌱 I'm currently taking a front end course
 - 📫 contact me at email: henriqueferraz6710@gmail.com 
-- 😄 Pronouns: him/his
+
 
  <div>
   <a href="https://github.com/OtavioHFerraz">
