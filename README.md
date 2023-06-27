@@ -1,8 +1,5 @@
 # Hello, I'm Otavio Ferraz 👋
 
-## Olá, Mundo 
-
-- 📫 contact me at email: henriqueferraz6710@gmail.com 
 
 
  <div>
